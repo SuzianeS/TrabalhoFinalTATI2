@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gameFragment"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="Play" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@android:drawable/checkbox_off_background"
+        android:title="Settings" />
+    <item
+        android:id="@+id/rankingFragment"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Ranking" />
+</menu>
